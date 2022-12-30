@@ -18,7 +18,7 @@ If you would like to contribute your solution to a Codeforces problem, please fo
 
 `git checkout -b YOUR_BRANCH_NAME`
 
-5. Create a new folder (IF IT DOES NOT EXIST BEFORE) for each problem that you want to contribute a solution to. The folder should be named using the Codeforces problem ID (e.g. 50A, 1774H, etc.).
+5. Open "MAIN" Folder. Then create a new folder (IF IT DOES NOT EXIST BEFORE) for each problem that you want to contribute a solution to. The folder should be named using the Codeforces problem ID (e.g. 50A, 1774H, etc.). (Please see other submissions for reference)
 
 6. Make sure your solution is correct before submitting it. Test your solution against the provided test cases to ensure that it is correct.
 
