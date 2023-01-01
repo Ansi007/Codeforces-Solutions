@@ -1,15 +1,9 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-void solve()
-{
-    int m, n;
-    cin >> m >> n;
-    cout << int((m * n) / 2);
-}
-
-int main()
-{
-    solve();
-    return 0;
+int main (){
+	int M, N, dominos;
+	cin >> M >> N;
+	cout << (M*N)/2 << endl;
+	return 0;
 }
